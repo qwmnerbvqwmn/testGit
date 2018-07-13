@@ -15,7 +15,8 @@ add something in testBranch
 
 
 // 666666
-change sth by master
+// 修改change to add
+add sth by master
 add something2 in testBranch
 --666666
 --remove something2 by qwmn
