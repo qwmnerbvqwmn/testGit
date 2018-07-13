@@ -26,6 +26,7 @@ add something2 in testBranch
 by branche: master
 
 
+// 修复bug完成，把addd改为了add
 qwmn had be create another.
-addd something3 by qwmn
+add something3 by qwmn 
 
