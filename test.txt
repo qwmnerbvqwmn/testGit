@@ -17,3 +17,11 @@ add something in testBranch
 // 666666
 change sth by master
 add something2 in testBranch
+--666666
+--remove something2 by qwmn
+add something2 in testBranch
+
+
+保留双方更改
+by branche: master
+
