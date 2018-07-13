@@ -35,5 +35,5 @@ add something3 by qwmn
 
 
 
-int a = 
-is adding something by master
+int a = 0;
+is adding something4 by master
